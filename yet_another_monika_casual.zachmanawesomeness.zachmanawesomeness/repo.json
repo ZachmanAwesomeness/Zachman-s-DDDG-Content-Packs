@@ -1,0 +1,25 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
+	"authors": {
+		"zachmanawesomeness": {}
+	},
+	"pack": {
+		"authors": [
+			"zachmanawesomeness"
+		],
+		"characters": [
+			"Monika"
+		],
+		"description": "It's just another Monika casual. Need I say more?",
+		"id": "yet_another_monika_casual.zachmanawesomeness.zachmanawesomeness",
+		"name": "Yet Another Monika Casual",
+		"kind": [
+			"Styles"
+		],
+		"preview": [
+			"./3pa.png"
+		],
+		"source": "",
+		"dddg2Path": "./index.json"
+	}
+}

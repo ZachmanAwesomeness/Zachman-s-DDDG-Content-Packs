@@ -1,0 +1,61 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "yet_another_monika_casual.zachmanawesomeness.zachmanawesomeness",
+	"version": "2.0",
+	"dependencies": [
+		"dddg.buildin.base.monika"
+	],
+	"characters": [
+		{
+			"id": "dddg.buildin.base.monika:ddlc.monika",
+			"styleGroups": [
+				{
+					"id": "yet_another_monika_casual",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "default",
+									"positions": {
+										"Left": [
+											[
+												"./1pl.png"
+											],
+											[
+												"./2pl.png"
+											]
+										],
+										"Right": [
+											[
+												"./1pr.png"
+											],
+											[
+												"./2pr.png"
+											]
+										]
+									},
+									"compatibleHeads": [
+										"dddg.buildin.base.monika:straight"
+									]
+								},
+								{
+									"id": "lean",
+									"positions": {
+										"Variant": [
+											[
+												"./3pa.png"
+											],
+											[
+												"./3pb.png"
+											]
+										]
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
