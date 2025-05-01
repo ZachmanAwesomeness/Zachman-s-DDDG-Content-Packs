@@ -1,0 +1,226 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "nats_dad_cylent-nite.zachmanawesomeness",
+	"version": "2.0",
+	"dependencies": [],
+	"characters": [
+		{
+			"id": "nats_dad_cylent-nite",
+			"label": "Nat's Dad (cylent-nite)",
+			"styleGroups": [
+				{
+					"id": "default",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "default",
+									"positions": {
+										"Variant": [
+											[
+												"./a.png"
+											],
+											[
+												"./b.png"
+											],
+											[
+												"./c.png"
+											],
+											[
+												"./d.png"
+											],
+											[
+												"./e.png"
+											],
+											[
+												"./f.png"
+											],
+											[
+												"./g.png"
+											],
+											[
+												"./h.png"
+											],
+											[
+												"./i.png"
+											],
+											[
+												"./j.png"
+											],
+											[
+												"./k.png"
+											],
+											[
+												"./l.png"
+											],
+											[
+												"./m.png"
+											],
+											[
+												"./n.png"
+											],
+											[
+												"./o.png"
+											],
+											[
+												"./p.png"
+											],
+											[
+												"./q.png"
+											],
+											[
+												"./r.png"
+											],
+											[
+												"./s.png"
+											],
+											[
+												"./t.png"
+											],
+											[
+												"./u.png"
+											],
+											[
+												"./v.png"
+											],
+											[
+												"./w.png"
+											],
+											[
+												"./x.png"
+											],
+											[
+												"./y.png"
+											],
+											[
+												"./z.png"
+											],
+											[
+												"./za.png"
+											],
+											[
+												"./zb.png"
+											],
+											[
+												"./zc.png"
+											],
+											[
+												"./zd.png"
+											]
+										],
+										"Left": [
+											[
+												"./dadsuki body.png"
+											]
+										],
+										"Right": [
+											[
+												"./dadsuki body.png"
+											]
+										]
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"heads": {
+				"default": {
+					"variants": [
+						[
+							"./a.png"
+						],
+						[
+							"./b.png"
+						],
+						[
+							"./c.png"
+						],
+						[
+							"./d.png"
+						],
+						[
+							"./e.png"
+						],
+						[
+							"./f.png"
+						],
+						[
+							"./g.png"
+						],
+						[
+							"./h.png"
+						],
+						[
+							"./i.png"
+						],
+						[
+							"./j.png"
+						],
+						[
+							"./k.png"
+						],
+						[
+							"./l.png"
+						],
+						[
+							"./m.png"
+						],
+						[
+							"./n.png"
+						],
+						[
+							"./o.png"
+						],
+						[
+							"./p.png"
+						],
+						[
+							"./q.png"
+						],
+						[
+							"./r.png"
+						],
+						[
+							"./s.png"
+						],
+						[
+							"./t.png"
+						],
+						[
+							"./u.png"
+						],
+						[
+							"./v.png"
+						],
+						[
+							"./w.png"
+						],
+						[
+							"./x.png"
+						],
+						[
+							"./y.png"
+						],
+						[
+							"./z.png"
+						],
+						[
+							"./za.png"
+						],
+						[
+							"./zb.png"
+						],
+						[
+							"./zc.png"
+						],
+						[
+							"./zd.png"
+						]
+					]
+				}
+			}
+		}
+	]
+}

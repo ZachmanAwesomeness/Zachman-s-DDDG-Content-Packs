@@ -1,0 +1,25 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
+	"authors": {
+		"zachmanawesomeness": {}
+	},
+	"pack": {
+		"authors": [
+			"zachmanawesomeness"
+		],
+		"characters": [
+			"Nat's Dad (cylent-nite)"
+		],
+		"description": "",
+		"id": "nats_dad_cylent-nite.zachmanawesomeness",
+		"name": "Nat's Dad (cylent-nite)",
+		"kind": [
+			"Characters"
+		],
+		"preview": [
+			"./preview.png"
+		],
+		"source": "",
+		"dddg2Path": "./index.json"
+	}
+}
